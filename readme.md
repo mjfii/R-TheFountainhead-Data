@@ -1,10 +1,6 @@
 
 # The Fountainhead  
 
----
-
-
-
 ## Motivation
 
 
