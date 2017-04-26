@@ -7,7 +7,7 @@
 
 
 ## Prerequisites
-
+There are no prerequisites to use this R library.  However
 
 ## Installation
 
@@ -19,13 +19,13 @@ library('fountainhead')
 ```
 
 ## Examples
-
+Numerous examples can be found in the repository wiki found here: 
 
 ## Contributors
 
 Michael Flanigan  
- email: [mick.flanigan@gmail.com](mick.flanigan@gmail.com)  
- twitter: [@mjfii](https://twitter.com/mjfii)  
+email: [mick.flanigan@gmail.com](mick.flanigan@gmail.com)  
+twitter: [@mjfii](https://twitter.com/mjfii)  
 
 # Versioning
 
