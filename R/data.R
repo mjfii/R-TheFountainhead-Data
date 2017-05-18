@@ -10,28 +10,28 @@
 #' @aliases fountainhead
 NULL
 
-#' "Part One: Peter Keating"
+#' Part One: Peter Keating
 #'
 #' A charater vector of each chapter in Part One of The Fountainhead.
 #'
 #' @format character(15)
 "peter_keating"
 
-#' "Part Two: Ellsworth M Toohey"
+#' Part Two: Ellsworth M Toohey
 #'
 #' A charater vector of each chapter in Part Two of The Fountainhead.
 #'
 #' @format character(15)
 "ellsworth_m_toohey"
 
-#' "Part Three: Gail Wynard"
+#' Part Three: Gail Wynard
 #'
 #' A charater vector of each chapter in Part Three of The Fountainhead.
 #'
 #' @format character(15)
 "gail_wynand"
 
-#' "Part Four: Howard Roark"
+#' Part Four: Howard Roark
 #'
 #' A charater vector of each chapter in Part Four of The Fountainhead.
 #'

@@ -1,11 +1,11 @@
 Package: fountainhead
-Title: Ayn Rand's classic 1943 novel conveyed through R objects
+Title: Ayn Rand's classic 1943 novel conveyed through R objects.
 Version: 0.0.0.9000
 Authors@R: person("Michael", "Flanigan", email = "mick.flanigan@gmail.com", role = c("aut", "cre"))
-Description: Ayn Rand's classic 1943 novel conveyed through R objects
+Description: Ayn Rand's classic 1943 novel conveyed through R objects.
 Depends: R (>= 3.3.2)
 License: file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports:
-RoxygenNote: 6.0.0
+RoxygenNote: 6.0.1
